@@ -1,0 +1,7 @@
+﻿  get_bits.c
+  main.c
+  parse_asn1.c
+d:\docs\编译系统\parse\parse\parse_asn1.c(9): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\docs\编译系统\parse\parse\parse_asn1.c(10): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  parse.vcxproj -> D:\Docs\编译系统\parse\Debug\parse.exe
